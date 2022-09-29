@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
 
-- ✍ I'm a student of: [University of Information Technology](https://en.uit.edu.vn/) (VNUHCM).
+- ✍ I'm a student of: [University of Information Technology](https://en.uit.edu.vn/) (UIT).
 
 - 🌱 I’m currently learning **MERN Stack.**
 
